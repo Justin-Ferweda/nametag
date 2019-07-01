@@ -30,9 +30,10 @@ span{
 }
 .name{
     background-color: white;
+    font-family: cursive;
     text-align: center;
     height:140 em;
-    font-size: 80px;
+    font-size: 50px;
     margin: auto;
 
 
